@@ -1,0 +1,17 @@
+body {
+  position: relative;
+  background-image: url(./hover-img.gif);
+  background-repeat: repeat;
+  background-position: center;
+}
+
+.main-btn {
+  font-size: 60px;
+  border: 2px solid black;
+  border-radius: 15px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 600px;
+  height: 100px;
+}

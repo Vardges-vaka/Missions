@@ -1,0 +1,36 @@
+.red-background {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+
+.nav-btns {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.back-btn {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.next-btn {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}

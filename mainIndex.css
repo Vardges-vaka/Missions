@@ -1,0 +1,35 @@
+.very-easy {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+.easy {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+.medium {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.hard {
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#AddEventListener1 {
+  background-color: red;
+}
+#AddEventListener2 {
+  background-color: green;
+}
+#FetchApi {
+  background-color: blue;
+}
